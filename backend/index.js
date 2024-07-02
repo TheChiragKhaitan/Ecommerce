@@ -12,7 +12,7 @@ const app = express();
 // Configure CORS
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://chirag-khaitan-ecommerce.vercel.app",
     credentials: true,
   })
 );
