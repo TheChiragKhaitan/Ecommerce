@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:4000"
+const backendDomain = "https://ecommerce-fmy5.onrender.com"
 
 const SummaryApi = {
     signUp : {
