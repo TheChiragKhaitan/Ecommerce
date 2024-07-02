@@ -64,12 +64,14 @@ To start building your own components and styles, follow these steps:
     ```
 
 1. Start the development server.
+   
+    for backend :-
     ```sh
     npm run dev 
     ```
-    for backend
+    for frontend :-
     ```sh
     npm start 
     ```
-    for frontend
+    
 1. Open the project in your browser at [http://localhost:3000](http://localhost:3000) to view your project.
