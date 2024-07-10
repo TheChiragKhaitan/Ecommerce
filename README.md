@@ -27,10 +27,12 @@ This comprehensive E-commerce project is developed using the ```MERN stack``` , 
 ### Frontend
 
 - **React.js**
+- **Redux-Toolkit**
 - **Context API**
-- **React-Toast**
+- **React-Toastify**
 - **react-router-dom**
 - **web-vitals**
+- **TailwindCSS**
 
 ### Backend
 
